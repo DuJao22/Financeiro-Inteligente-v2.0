@@ -1,0 +1,10 @@
+email-validator
+flask-login
+flask
+gunicorn
+flask-wtf
+werkzeug
+wtforms
+pytz
+reportlab
+gunicorn
